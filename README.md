@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-- 🌱 You can call me "TWind" 😄
+- 🌱 You can call me "TrWind" 😄
 - 🔭 I’m currently a student at [Phenikaa University](https://phenikaa-uni.edu.vn/vi)
 - ⚡ How to reach me: **ngotrongphong.dev@gmail.com**
 
